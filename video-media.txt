@@ -2,22 +2,22 @@
 
 # Hüsnü Apak Tarafından Yapılmıştır.
 
-0.0.0.0 fullhdfilmizlesene.net
-0.0.0.0 filmakinesi.net
-0.0.0.0 abcfilmizle.com
-0.0.0.0 filmizlesene.pw
-0.0.0.0 fullhdfilmizle24.com
-0.0.0.0 jetfilmizle.pw
-0.0.0.0 dizimex.net
-0.0.0.0 filmkovani.com
-0.0.0.0 720p-izle.com
-0.0.0.0 fullhdfilmizleten.org
-0.0.0.0 morfilmizle.com
-0.0.0.0 filmyani.com
-0.0.0.0 bolfilmizle.com
-0.0.0.0 blutv.com
-0.0.0.0 izleorg2.org
-0.0.0.0 filmw.org
+0.0.0.0 www.fullhdfilmizlesene.net
+0.0.0.0 www.filmakinesi.net
+0.0.0.0 www.abcfilmizle.com
+0.0.0.0 www.filmizlesene.pw
+0.0.0.0 www.fullhdfilmizle24.com
+0.0.0.0 www.jetfilmizle.pw
+0.0.0.0 www.dizimex.net
+0.0.0.0 www.filmkovani.com
+0.0.0.0 www.720p-izle.com
+0.0.0.0 www.fullhdfilmizleten.org
+0.0.0.0 www.morfilmizle.com
+0.0.0.0 www.filmyani.com
+0.0.0.0 www.bolfilmizle.com
+0.0.0.0 www.blutv.com
+0.0.0.0 www.izleorg2.org
+0.0.0.0 www.filmw.org
 youtube.com
 filmwatch.net
 vipfilmlerizle.com
